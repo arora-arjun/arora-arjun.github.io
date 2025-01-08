@@ -21,10 +21,10 @@ author: Arjun Arora
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Applications:
+    - Pix You Dark Icon Pack: "https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons"
+    - Rust Icon Pack: "https://play.google.com/store/apps/details?id=com.arjunarora.rust_iconpack"
+  Play Store: "https://play.google.com/store/apps/dev?id=5035625037859540468"
 
 ################
 # --- Logo --- #
